@@ -1,0 +1,25 @@
+* {
+    color: #CDCDCD;
+    margin: 0px;
+}
+
+body {
+    background-color: #303030;
+}
+
+hr{
+    width: 100%;
+}
+
+hr.mid {
+    width: 20%;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+/* .rso{
+    height: 31px;
+} */
+
