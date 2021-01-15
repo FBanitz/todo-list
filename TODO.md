@@ -8,9 +8,10 @@
 
 ## En cours
 
-
++ mise en page
 
 ## Fini
 
 + lien Github
-+ Créative Commons
++ Creative Commons
+(le plus important, en somme)
